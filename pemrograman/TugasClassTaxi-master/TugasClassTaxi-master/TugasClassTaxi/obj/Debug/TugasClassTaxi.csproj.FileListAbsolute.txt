@@ -1,0 +1,7 @@
+D:\Pemrograman\tugas\TugasClassTaxi\TugasClassTaxi\obj\Debug\TugasClassTaxi.csproj.AssemblyReference.cache
+D:\Pemrograman\tugas\TugasClassTaxi\TugasClassTaxi\obj\Debug\TugasClassTaxi.csproj.CoreCompileInputs.cache
+D:\Pemrograman\tugas\TugasClassTaxi\TugasClassTaxi\bin\Debug\TugasClassTaxi.exe.config
+D:\Pemrograman\tugas\TugasClassTaxi\TugasClassTaxi\bin\Debug\TugasClassTaxi.exe
+D:\Pemrograman\tugas\TugasClassTaxi\TugasClassTaxi\bin\Debug\TugasClassTaxi.pdb
+D:\Pemrograman\tugas\TugasClassTaxi\TugasClassTaxi\obj\Debug\TugasClassTaxi.exe
+D:\Pemrograman\tugas\TugasClassTaxi\TugasClassTaxi\obj\Debug\TugasClassTaxi.pdb
